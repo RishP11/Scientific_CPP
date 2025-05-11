@@ -4,5 +4,5 @@ In this repositry, I will try to maintain the source code corresponding to the e
 
 This exercise is being done with a sole objective of learning. 
 
-${\color{red}\text{The code here is not for commercial purposes and offers no guarantee whatsoever and in whatever regard.}}$
+${\color{red}\text{The code here is not for commercial purposes and offers no guarantee whatsoever and in any regards.}}$
 
